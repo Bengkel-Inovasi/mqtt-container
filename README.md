@@ -13,6 +13,7 @@
 
 There are some private variables need to be filled in on `compose.yml`:
 
+- **APP_API_KEY**
 - **TOKEN_PRIVATE_KEY**
 - **DB_PASSWORD**
 - **MQTT_USERNAME**

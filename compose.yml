@@ -7,6 +7,7 @@ services:
     environment:
       APP_HOST: 0.0.0.0
       APP_PORT: 8080
+      APP_API_KEY: # FILL THIS: can be anything
       TOKEN_ISSUER: BengkelInovasiDev
       TOKEN_PRIVATE_KEY: # FILL THIS: can be anything
       TOKEN_EXPIRATION: 12
